@@ -8,5 +8,4 @@ build/
 *.tlog
 *.lib
 *.exe
-external-base.sln
 imgui.ini
