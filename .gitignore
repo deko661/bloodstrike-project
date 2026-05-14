@@ -1,0 +1,12 @@
+.vs/
+x64/
+build/
+*.obj
+*.log
+*.pdb
+*.idb
+*.tlog
+*.lib
+*.exe
+external-base.sln
+imgui.ini
